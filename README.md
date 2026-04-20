@@ -122,9 +122,17 @@ pytest -q
 
 ## 📸 Screenshots
 
-- Chat interface with assistant and user bubbles
-- Retrieval answers with confidence and source attribution
-- Memory demo showing name recall across turns
+### Chat Overview
+
+![Chat Overview](assets/screenshots/chat-overview.jpg)
+
+Main Streamlit interface showing greeting flow, retrieval-backed payment response, confidence level, and source attribution.
+
+### Memory Demo
+
+![Memory Demo](assets/screenshots/memory-demo.jpg)
+
+Conversation memory in action, where the assistant stores the user's name and recalls it in a follow-up message.
 
 ## 📊 Future Improvements
 
